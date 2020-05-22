@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S16Editor", "S16Editor\S16Editor.csproj", "{BAF40211-9A0C-4621-AAC6-44415F4B4246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S16EditorTest", "S16EditorTest\S16EditorTest.csproj", "{F36A17FC-BF81-413C-9124-AD0C1C818AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF40211-9A0C-4621-AAC6-44415F4B4246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF40211-9A0C-4621-AAC6-44415F4B4246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF40211-9A0C-4621-AAC6-44415F4B4246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF40211-9A0C-4621-AAC6-44415F4B4246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36A17FC-BF81-413C-9124-AD0C1C818AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36A17FC-BF81-413C-9124-AD0C1C818AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36A17FC-BF81-413C-9124-AD0C1C818AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36A17FC-BF81-413C-9124-AD0C1C818AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C9B5D3E-DF2D-42F3-A3D2-AE36B00C8226}
+	EndGlobalSection
+EndGlobal
