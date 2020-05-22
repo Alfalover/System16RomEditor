@@ -28,4 +28,4 @@ SEGA System 16 Rom editor, allow replace graphics on old arcade games
  
 ![fast instructions](/simpleInstructions.png)
 
-[Sample Video](https://github.com/Alfalover/System16RomEditor/blob/master/simpleInstructions.png)
+[Sample Video](https://github.com/Alfalover/System16RomEditor/blob/master/sample.avi)
